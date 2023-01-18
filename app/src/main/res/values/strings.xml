@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WhosHere</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="user_display_picture">user_display_picture</string>
+    <string name="loading">loading</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="dob">dob</string>
+    <string name="gender">gender</string>
+    <string name="mobile">mobile</string>
+    <string name="registered_user_since">registered_user_since</string>
+</resources>

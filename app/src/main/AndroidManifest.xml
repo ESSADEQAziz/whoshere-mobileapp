@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.qr">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+<<<<<<< HEAD
+=======
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+>>>>>>> dc56865 (upload recyclerview)
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QR">
+
+        <activity
+<<<<<<< HEAD
+            android:name=".Profil"
+=======
+            android:name="com.project.qr.Profil"
+>>>>>>> dc56865 (upload recyclerview)
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+<<<<<<< HEAD
+
+        <activity
+            android:name=".secondprofile"
+=======
+        <activity
+            android:name="com.project.qr.UploadActivity"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+        <activity
+            android:name="com.project.qr.UpdateActivity"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.project.qr.MainActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+        <activity
+            android:name="com.project.qr.DetailActivity"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+
+        <activity
+            android:name="com.project.qr.secondprofile"
+>>>>>>> dc56865 (upload recyclerview)
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+
+        <activity
+<<<<<<< HEAD
+            android:name=".DashboardStudent"
+=======
+            android:name="com.project.qr.DashboardStudent"
+>>>>>>> dc56865 (upload recyclerview)
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+<<<<<<< HEAD
+            android:name=".DashboardTeacher"
+=======
+            android:name="com.project.qr.DashboardTeacher"
+>>>>>>> dc56865 (upload recyclerview)
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+<<<<<<< HEAD
+            android:name=".QrGenerator"
+=======
+            android:name="com.project.qr.QrGenerator"
+>>>>>>> dc56865 (upload recyclerview)
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+<<<<<<< HEAD
+        <activity android:name=".scannerView" />
+
+        <activity
+            android:name=".LoginActivity"
+=======
+        <activity android:name="com.project.qr.scannerView" />
+
+        <activity
+            android:name="com.project.qr.LoginActivity"
+>>>>>>> dc56865 (upload recyclerview)
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+<<<<<<< HEAD
+            android:name=".RegisterActivity"
+=======
+            android:name="com.project.qr.RegisterActivity"
+>>>>>>> dc56865 (upload recyclerview)
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

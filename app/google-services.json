@@ -1,0 +1,80 @@
+{
+  "project_info": {
+<<<<<<< HEAD
+    "project_number": "484808022343",
+    "firebase_url": "https://qrcoddb-default-rtdb.firebaseio.com",
+    "project_id": "qrcoddb",
+    "storage_bucket": "qrcoddb.appspot.com"
+=======
+    "project_number": "820069900408",
+    "project_id": "abdroidapp-bda14",
+    "storage_bucket": "abdroidapp-bda14.appspot.com"
+>>>>>>> dc56865 (upload recyclerview)
+  },
+  "client": [
+    {
+      "client_info": {
+<<<<<<< HEAD
+        "mobilesdk_app_id": "1:484808022343:android:5732d18ac4cf49d6c31462",
+        "android_client_info": {
+          "package_name": "com.example.qr"
+=======
+        "mobilesdk_app_id": "1:820069900408:android:9c1c91f3f7cf9bec458d8d",
+        "android_client_info": {
+          "package_name": "com.project.qr"
+>>>>>>> dc56865 (upload recyclerview)
+        }
+      },
+      "oauth_client": [
+        {
+<<<<<<< HEAD
+          "client_id": "484808022343-049qumholdr1kfkquhu9c8fbckghre5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qr",
+            "certificate_hash": "98ee019384f50894bb5746ea500b4c5d93750e10"
+          }
+        },
+        {
+          "client_id": "484808022343-7bm72e4vb92efa3jfkpra98m5qktomop.apps.googleusercontent.com",
+=======
+          "client_id": "820069900408-44chabtd4t1t8plg6csc557bj41bbj5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.qr",
+            "certificate_hash": "c0e512622c66dc79af021111214b1ff27376057f"
+          }
+        },
+        {
+          "client_id": "820069900408-ue6g1sk5j3smrugklf7kpvjis8lbfo8h.apps.googleusercontent.com",
+>>>>>>> dc56865 (upload recyclerview)
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+<<<<<<< HEAD
+          "current_key": "AIzaSyCrkQretqdUX6vT0Yd8gBKvKb-15mKrrxk"
+=======
+          "current_key": "AIzaSyBhVe2qy5B4IHADMfE-EE8UvDQqvnPgqws"
+>>>>>>> dc56865 (upload recyclerview)
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+<<<<<<< HEAD
+              "client_id": "484808022343-7bm72e4vb92efa3jfkpra98m5qktomop.apps.googleusercontent.com",
+=======
+              "client_id": "820069900408-ue6g1sk5j3smrugklf7kpvjis8lbfo8h.apps.googleusercontent.com",
+>>>>>>> dc56865 (upload recyclerview)
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
